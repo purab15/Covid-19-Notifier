@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276125128697",
+    "firebase_url": "https://covid-19-notifier-722bc.firebaseio.com",
+    "project_id": "covid-19-notifier-722bc",
+    "storage_bucket": "covid-19-notifier-722bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276125128697:android:bab986f88ff3664ef24f28",
+        "android_client_info": {
+          "package_name": "com.example.covid19notifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276125128697-lj387dh6ugc3p56ji8v0o05naib6lnuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covid19notifier",
+            "certificate_hash": "468259dfe2cfefbdfecb4934d5970d885f8b85da"
+          }
+        },
+        {
+          "client_id": "276125128697-na2ehlhq1r8oi5154p6qo262ieofanhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkIi8u2G9QgLcAcD1BxLFSVUcICZA8duA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276125128697-na2ehlhq1r8oi5154p6qo262ieofanhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
